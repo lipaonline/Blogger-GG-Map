@@ -1,7 +1,3 @@
-
-Click entity for XPath. Double-click to collapse/expand. Enter XPath or XML string then click XPath1/Parse for results or to XML Tree-ify, respectively.
-SourceOptions
-XPath1/ParseXSL 1.0
 <Module>
 <ModulePrefs title="Blog Map" description="Display blog posts on a map." height="250" author="Brian Ngo" author_email="briancse+blogmap@gmail.com">
 <Require feature="dynamic-height"/>
